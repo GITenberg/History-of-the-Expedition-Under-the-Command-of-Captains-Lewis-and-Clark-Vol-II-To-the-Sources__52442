@@ -1,5 +1,8 @@
 _repo: History-of-the-Expedition-Under-the-Command-of-Captains-Lewis-and-Clark-Vol-II-To-the-Sources__52442
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52442-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Clark, William
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '6793'
     url: http://www.gutenberg.org/2009/agents/6793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52442#History-of-the-Expedition-Under-the-Command-of-Captains-Lewis-and-Clark-Vol-II-To-the-Sources_
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
